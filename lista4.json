@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"nombre": "Fernando Andrés Salas Velasco",
+		"volqueta":"AB-342",
+		"state": "activo",
+		"ultimo_trabajo":"2018-02-26T14:22:18Z",
+		"siguiente_trabajo":"2018-02-26T14:22:18Z"
+	}
+	{
+		"id": 2,
+		"nombre": "Juan Carlos Gonzales Jimenes",
+		"volqueta":"C-45J",
+		"state": "vacaciones",
+		"ultimo_trabajo":"2018-02-26T14:22:18Z",
+		"siguiente_trabajo":"2018-02-26T14:22:18Z"
+	}
+	{
+		"id": 3,
+		"nombre": "Juan Perez Martinez",
+		"volqueta":"00025R",
+		"state": "ocupado",
+		"ultimo_trabajo":"2018-02-26T14:22:18Z",
+		"siguiente_trabajo":"2018-02-26T14:22:18Z"
+	}
+	{
+		"id": 4,
+		"nombre": "Jhoan Garcia Peña",
+		"volqueta":"2585gf",
+		"state": "activo",
+		"ultimo_trabajo":"2018-02-26T14:22:18Z",
+		"siguiente_trabajo":"2018-02-26T14:22:18Z"
+	}
+	{
+		"id": 5,
+		"nombre": "Gonzalo Muñoz Ballesta",
+		"volqueta":"44444N",
+		"state": "activo",
+		"ultimo_trabajo":"2018-02-26T14:22:18Z",
+		"siguiente_trabajo":"2018-02-26T14:22:18Z"
+	}
+	{
+		"id": 5,
+		"nombre": "Hugo Posada Jaimez",
+		"volqueta":"2020kj",
+		"state": "Descanso",
+		"ultimo_trabajo":"2020-02-26T14:22:18Z",
+		"siguiente_trabajo":"2021-02-26T14:22:18Z"
+	}
+]
